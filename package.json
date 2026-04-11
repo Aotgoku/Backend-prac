@@ -1,0 +1,16 @@
+{
+  "name": "backend-again",
+  "version": "1.0.0",
+  "description": "bckend pracrce",
+  "repository": {
+    "type": "git",
+    "url": "jvascript"
+  },
+  "license": "ISC",
+  "author": "Dhruv Jain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
